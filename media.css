@@ -1,27 +1,8 @@
 @media   (max-width: 1500px) {
-    .galery-content{
-        display: block;
-    }
 
 
-.gal,
-.galery-up,
-.galery-down {
-    display: block;
-    margin-left: auto;
-  margin-right: auto;
-
-}
 
 
-.gal{
-    margin-bottom: 20px;
-
-}
-
-.galery-left{
-    margin-right: 0;
-}
 
 
 
@@ -90,6 +71,32 @@
       .history-number{
         width: auto;
       }
+
+
+  
+      
+      .galery-content{
+        display: block;
+    }
+
+
+.gal,
+.galery-up,
+.galery-down {
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+
+}
+
+.gal{
+  margin-bottom: 20px;
+
+}
+
+.galery-left{
+  margin-right: 0;
+}
        
     }
 
@@ -107,6 +114,8 @@
      .btn{
       display: none;
      }
+
+
 
 
     }
@@ -131,6 +140,8 @@
         display: block;
       }
 
+      
+
       .menu-item{
         width: auto;
       }
@@ -147,3 +158,7 @@
         font-size: 23px;
       }
     }
+
+
+
+  
