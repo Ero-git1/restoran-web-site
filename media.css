@@ -1,4 +1,4 @@
-@media   (max-width: 1500px) {
+/*@media   (max-width: 1500px) {
 
 
 
@@ -8,7 +8,10 @@
 
 
 
-}
+}*/
+
+
+
 
 
 @media  (max-width:1300px){
@@ -96,6 +99,10 @@
 
 .galery-left{
   margin-right: 0;
+}
+
+.burger-text{
+  text-align: center;
 }
        
     }
