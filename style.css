@@ -25,6 +25,10 @@ body{
 
 }
 
+.header-logo{
+   margin-right: 114px;
+}
+
 
 .nav-item{
    color: #fff;
@@ -33,6 +37,7 @@ body{
    font-size: 14px;
    margin-right: 25px;
    transition: color 0.3s linear;
+   
 }
 
 
@@ -46,6 +51,8 @@ body{
    border-right:  1px solid rgba(255, 255, 255, 1);
    padding-right: 10px;
    height: 50px;
+   margin-right: 37px;
+   margin-left: 33px;
 }
 
 
@@ -53,7 +60,16 @@ body{
    position: absolute;
    top: 18px;
    right: 7px;
+   
 }
+
+
+.cart a img{
+   margin-right: 15px;
+   margin-top: 15px;
+}
+
+
 
 .num{
    color: #fff;
@@ -71,6 +87,7 @@ body{
    color: #fff;
    font-weight: 400;
    font-size: 14px;
+   margin-right: 28px;
 }
 
 .phone-holder{
@@ -85,6 +102,7 @@ color: #fff;
   padding: 14px 18px;
   font-weight: 700;
   transition: color 0.2s linear;
+  margin-right: 65px;
 }
 
 .menu-burg{
@@ -204,8 +222,9 @@ color: #fff;
 
 
 .card-title span{
-   color: rgba(255, 116, 0, 1);
-}
+   color: rgba(188, 144, 96, 1);
+   margin-left: 5px
+} 
 
 
 .card-desc{
@@ -293,13 +312,22 @@ width: 444px;
 }
 
 .image1{
-   margin-left: 56px;
+   width: 233px;
+   height: 300px;
+   position: relative;
+   margin: 53px;
+   top: 208px;
+   left: 6px;
+   
    
 }
 
 
 .image2{
+   width: 255px;
    margin-top: -147px;
+   position: relative;
+   margin-left: 357px;
 }
 
 
