@@ -272,7 +272,7 @@ color: #fff;
 .history-desc{
    color: rgba(101, 99, 99, 1);
 width: 444px;
-  font-size: 16px;
+  font-size: 19px;
   text-align: center;
   
 }
@@ -326,7 +326,7 @@ width: 444px;
    margin: 53px;
    top: 208px;
    left: 6px;
-   
+  box-shadow: none;
    
 }
 
@@ -528,6 +528,7 @@ width: 444px;
 .coment-text{
    text-align: center;
    font-style: italic;
+   font-size: 20px;
    margin-bottom: 20px;
 
 }
