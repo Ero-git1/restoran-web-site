@@ -150,7 +150,8 @@ color: #fff;
 .header-subtitle{
    color: #fff;
    font-size: 18px;
-   font-family: "open sanse " , sans-serif
+   font-family: "open sanse " , sans-serif;
+   margin-top: 6px;
 }
 
 
