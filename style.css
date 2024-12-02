@@ -424,7 +424,7 @@ width: 444px;
 
 .burger-text{
    font-family: "Tinos" , serif;
-   font-size: 26px;
+   font-size: 28px;
    margin-left: 20px;
 }
 
@@ -458,6 +458,7 @@ width: 444px;
    padding-top: 80px;
    padding-bottom: 20px;
    margin-right: 20px;
+   font-size: 20px;
 }
 
 .menu-image .menu-img {
