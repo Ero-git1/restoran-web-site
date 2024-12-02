@@ -142,9 +142,7 @@ color: #fff;
     margin-bottom: 12px;
 }
 
-.sub-title{
-   
-}
+
 
 
 .header-subtitle{
@@ -492,24 +490,14 @@ width: 444px;
 }
 
 
-.price-img{
-   position: absolute;
-   bottom:  0;
-   right: 0; 
-}
+
 
 .menu-image{
    position: relative;
 }
 
 
-.price-420{
-   position: absolute;
-   bottom: 32px;
-   right: 32px;
-   color: #fff;
-   font-size: 30px;
-}
+
 
 
 .menu-items{
@@ -565,10 +553,7 @@ width: 444px;
    margin-top: 20px;
 }
 
-.dot img{
-  
-   
-}
+
 
 .galery-title {
    font-family: "Tinos" , serif;
