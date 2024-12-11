@@ -1,16 +1,16 @@
-@media   (max-width: 1501px) {
+@media   (max-width: 1500px) {
 .image1{
-  top: 158px;
+  top: 162px;
   
   
 }
 
 .image2{
-  right: 20px;
+  right: -32px;
 }
 
 .dot{
-  margin-left: 570px;
+  margin-left: 573px;
 }
 
 
@@ -24,6 +24,10 @@
 
 
 }
+
+
+
+
 
 
 
@@ -223,4 +227,42 @@
     margin-left: 548px;
   }
 }
+
+
+
+@media(max-width: 2002px){
+  .image1{
+    left: 42px;
+    top: 6px;
+  }
+
+  .image2{
+    right: 322px;
+  }
+  .dot{
+    margin-left: 823px;
+  }
+}
   
+
+@media(max-width: 1590px){
+
+  .image1{
+    top: 157px;
+  }
+  .image2{
+    right: -17px;
+
+  }
+
+  .dot{
+    margin-left: 613px;
+  }
+}
+
+
+@media(max-width: 1470px){
+  .dot{
+    margin-left: 554px;
+  }
+}
