@@ -20,7 +20,9 @@
 
 
 
-
+.card-title{
+  font-size: 25px;
+}
 
 
 }
@@ -147,6 +149,10 @@
       display: none;
      }
 
+     
+
+
+
 
 
 
@@ -255,8 +261,9 @@
 
   }
 
+
   .dot{
-    margin-left: 613px;
+    margin-left: 583px;
   }
 }
 
@@ -265,4 +272,20 @@
   .dot{
     margin-left: 554px;
   }
+}
+
+
+@media(max-width: 1394px){
+     .dot{
+      margin-left: 520px;
+     }
+}
+
+
+
+
+@media(max-width: 1400px){
+   .dot{
+    margin-left: 526px
+   }
 }
