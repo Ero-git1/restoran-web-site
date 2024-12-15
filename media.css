@@ -289,3 +289,10 @@
     margin-left: 526px
    }
 }
+
+
+@media(max-width: 720px){
+  .dot{
+    margin-left: 301px;
+  }
+} 
