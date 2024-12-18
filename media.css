@@ -301,3 +301,15 @@
     margin-left: 301px;
   }
 } 
+
+
+@media(max-width: 1141px){
+  .card-title{
+    font-size: 22px;
+    
+  }
+
+  .dot{
+    margin-left: 390px;
+  }
+} 

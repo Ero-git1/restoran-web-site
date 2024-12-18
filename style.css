@@ -312,7 +312,7 @@ width: 444px;
 }
 
 
-.history-imagas{
+.history-images{
    position: relative;
    margin-left: 86px;
    
@@ -553,9 +553,9 @@ width: 444px;
 .dot{
    margin-left: 310px;
    margin-top: 20px;
+   margin-right: 10px;
+  
 }
-
-
 
 .galery-title {
    font-family: "Tinos" , serif;
