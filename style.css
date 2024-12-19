@@ -335,6 +335,7 @@ width: 444px;
    margin-top: -147px;
    position: relative;
    margin-left: 357px;
+   top: 74px;
   
 }
 
@@ -639,6 +640,35 @@ margin-left: 24px;
    text-align: center;
 }
 
+.menu-burg img{
+   width: 98%;
+}
+
+.menu-burg{
+   display: none;
+}
+
+.slide{
+   position: absolute;
+  
+   
+   
+}
+
+
+.block{
+  display: block; 
+}
+
+button{
+   border: none;
+   outline: none;
+   background-color: transparent;
+}
+
+.disp{
+   display: none;
+}
 
 
 
