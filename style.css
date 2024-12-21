@@ -642,10 +642,12 @@ margin-left: 24px;
 
 .menu-burg img{
    width: 98%;
+   cursor: pointer;
 }
 
 .menu-burg{
    display: none;
+  
 }
 
 .slide{

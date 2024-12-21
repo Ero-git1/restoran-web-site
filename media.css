@@ -24,6 +24,8 @@
 
 
 
+
+
 .card-title{
   font-size: 25px;
 }
@@ -291,7 +293,7 @@
 
 @media(max-width: 1400px){
    .dot{
-    margin-left: 526px
+    margin-left: 488px
    }
 }
 
@@ -313,3 +315,5 @@
     margin-left: 390px;
   }
 } 
+
+
