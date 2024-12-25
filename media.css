@@ -358,3 +358,24 @@
     margin-left: 482px;
   }
 }
+
+@media(max-width: 1156px){
+  .dot{
+    margin-left: 386px;
+  }
+
+  .card-title{
+    font-size: 22px;
+  }
+}
+
+@media(max-width: 1160px){
+  .dot{
+    margin-left: 396px;
+
+  }
+
+  .card-title{
+    font-size: 22px;
+  }
+}
