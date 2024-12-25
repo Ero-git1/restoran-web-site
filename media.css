@@ -391,3 +391,13 @@
     display: none;
   }
 }
+
+
+@media(max-width: 1130px){
+  .card-title{
+    font-size: 21px;
+  }
+  .dot{
+    margin-left: 369px;
+  }
+}
