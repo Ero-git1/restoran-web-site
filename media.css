@@ -382,4 +382,12 @@
   .burger-text{
     font-size: 23px;
   }
+
+  .img-rec{
+    display: none;
+  }
+
+  .img-rec2{
+    display: none;
+  }
 }
