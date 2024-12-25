@@ -26,6 +26,8 @@
 
 
 
+
+
 .card-title{
   font-size: 25px;
 }
@@ -337,4 +339,22 @@
     margin-left: 339px;
   }
 
+}
+
+
+@media(max-width: 1472px){
+  .dot{
+    margin-left: 548px;
+  }
+
+}
+
+@media(max-width: 1334px){
+  .button{
+    margin-right: 24px;
+  }
+
+  .dot{
+    margin-left: 482px;
+  }
 }
