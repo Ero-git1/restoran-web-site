@@ -402,3 +402,31 @@
   }
 }
 
+@media(max-width: 350px){
+  .header{
+    width: 100vh;;
+  }
+}
+
+
+@media(max-width: 400px){
+  .header{
+    width: 100vh;
+  }
+}
+
+
+
+@media(max-width: 665px){
+  .header{
+    width: 100vh;
+  }
+}
+
+
+@media(max-width: 700px){
+  .header{
+    width: 100vh;
+  }
+}
+
